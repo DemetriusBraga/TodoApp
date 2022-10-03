@@ -12,5 +12,23 @@ button {
 }
 
 .todoForm {
-    padding-bottom: 60px;
+    padding-bottom: 50px;
+}
+
+.todo {
+    display: flex;
+    flex-direction: column;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+}
+
+.cards {
+    display: flex;
+}
+
+.navbar {
+    margin-bottom: 0px;
 }

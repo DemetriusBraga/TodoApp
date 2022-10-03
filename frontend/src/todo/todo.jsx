@@ -5,7 +5,7 @@ import TodoList from './todoList';
 
 export default (props) => {
     return (
-        <div>
+        <div className="todo">
             <PageHeader name="Tarefas" small="Cadastro"></PageHeader>
             <TodoFrom />
             <TodoList />

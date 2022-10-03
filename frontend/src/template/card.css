@@ -1,0 +1,29 @@
+.card {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+.card .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    padding: 20px;
+    background-color: #334887;
+    color: #ffffff;
+    border-radius: 20px;
+}
+
+.card.color1 .content {
+    background-color: #2a6f97;
+}
+
+.card.color2 .content {
+    background-color: #01497c;
+}
+
+.card.color3 .content {
+    background-color: #012a4a;
+}
