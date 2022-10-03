@@ -4,28 +4,15 @@ import PageHeader from '../template/pageHeader';
 export default function (props) {
     return (
         <div>
-            <PageHeader name="Sobre" small="Nós"></PageHeader>
+            <PageHeader name="Sobre"></PageHeader>
 
-            <h2>Nossa Histótia</h2>
+            <h2>Gerenciador de Tarefas</h2>
             <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum,
-                reprehenderit doloremque. Enim maxime nihil temporibus cum,
-                perspiciatis, asperiores molestias aliquid culpa, voluptatibus
-                non voluptatem! Consequatur ad nisi eveniet reiciendis ullam.
-            </p>
-            <h2>Missão e Visão</h2>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Deleniti dolore repellat aliquam nesciunt porro totam
-                perspiciatis aspernatur nisi quidem harum autem, voluptate
-                cupiditate ullam laborum veritatis. Quod officia eius ullam.
-            </p>
-            <h2>Imprensa</h2>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-                iure, perferendis repudiandae minima quo obcaecati vitae.
-                Commodi, nisi, soluta ullam tenetur corrupti nihil dolore,
-                blanditiis quis odit laborum vitae minima?
+                Aplicação criada para otimizar seu dia. <br />
+                Agora você não precisa ficar tentando lembrar o que faltava
+                fazer. <br />
+                Anote suas reuniões, consultas médicas, seus lembrentes do dia,
+                marque as tarefas concluídas e as remova quando quiser.
             </p>
         </div>
     );

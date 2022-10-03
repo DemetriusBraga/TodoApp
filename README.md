@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="assets/ezgif.com-gif-maker.gif" >
+    <!-- <img src="assets/ezgif.com-gif-maker.gif" > -->
 </p>
